@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942778503267",
+    "firebase_url": "https://eatfit-88ea0-default-rtdb.firebaseio.com",
+    "project_id": "eatfit-88ea0",
+    "storage_bucket": "eatfit-88ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942778503267:android:0542d7371f02732c8e6856",
+        "android_client_info": {
+          "package_name": "com.example.eatfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942778503267-k264ieo7mq85qvkakn5uc31n1j206idj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVqHqqivS2LAbPWnOb2FgPIuY-kghwVBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942778503267-k264ieo7mq85qvkakn5uc31n1j206idj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
